@@ -29,7 +29,8 @@ Forum App (Flutter, Firebase & BLoC)
 
 I built a real-time discussion platform using Flutter with Firebase Authentication and Cloud Firestore, and managed state with Flutter BLoC. Users can register, log in, create discussion topics, reply to threads, and delete their own content. The app updates instantly thanks to Firestore, and I separated all Firebase logic into a local package for a clean, modular architecture. It includes input validation, error handling, loading/success/error states with BLoC, Material Design UI with animated topic cards, and unit tests using Mockito and Flutter Test.Technologies used: Flutter, Dart, Firebase Authentication, Cloud Firestore, Flutter BLoC, Equatable, Mockito, Flutter TestRepository: [Add your GitHub link here]
 
-Git Hub Link: https://github.com/anumarif09/Assignment-2---SZABIST-Forums-App-using-Firebase-Bloc.git
+Git Hub Link: https://github.com/anumarif09/SZABIST-Forums-App-using-Firebase-Bloc.git
+
 
 PROJECT 5
 Flutter Modern Chat UI
